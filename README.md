@@ -18,7 +18,6 @@
 ## Demo
 
 ![App Demo Placeholder](migration.gif)
-*(Replace with an actual screenshot or GIF of the app in action.)*
 
 ## Installation
 
