@@ -30,10 +30,9 @@ A Streamlit-based web application to generate dynamic cloud migration plans from
 
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/your-username/cloud-migration-planner.git](https://www.google.com/search?q=https://github.com/your-username/cloud-migration-planner.git)
-    cd cloud-migration-planner
+    git clone [https://github.com/deepakkumar-m/Cloud-Migration-Planner.git]
+    cd Cloud-Migration-Planner
     ```
-    *(Replace `your-username` with your actual GitHub username)*
 
 2.  **Install Dependencies**:
     ```bash
