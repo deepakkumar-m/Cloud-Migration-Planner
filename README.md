@@ -1,6 +1,6 @@
 # Cloud Migration Planner
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) A Streamlit-based web application to generate dynamic cloud migration plans from on-premises infrastructure to cloud providers (AWS, Azure, GCP). This tool parses user input (e.g., VMs, databases, storage) and provides a tailored migration plan with timeline, risks, mitigations, and cost estimates.
+A Streamlit-based web application to generate dynamic cloud migration plans from on-premises infrastructure to cloud providers (AWS, Azure, GCP). This tool parses user input (e.g., VMs, databases, storage) and provides a tailored migration plan with timeline, risks, mitigations, and cost estimates.
 
 ## Features
 
